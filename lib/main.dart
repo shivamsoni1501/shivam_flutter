@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shivam_flutter/views/home_view.dart';
 
-import 'views/login_views/background.dart';
-import 'views/login_views/login_view1.dart';
-
 void main() {
   runApp(const MyApp());
 }
@@ -19,8 +16,6 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: HomeView(),
-      //   BackGroundView(
-      // child: Loginview1(onSubmit: () {}, enabled: true), ),
     );
   }
 }
