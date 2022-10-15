@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29513400536",
+    "project_id": "shivam-flutter",
+    "storage_bucket": "shivam-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29513400536:android:b0e9e9cea52693ddba97ad",
+        "android_client_info": {
+          "package_name": "com.example.shivam_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29513400536-5bsl3nucn225rb9g5j7rmsg5ii6i1fhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKDnhFL6hgUIn53D-yLEH2P37JhCOSYaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29513400536-5bsl3nucn225rb9g5j7rmsg5ii6i1fhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
